@@ -11,7 +11,7 @@
     '+12019938832', // Text this number
         array(
         'from' => '+19292039424', // From a valid Twilio number
-        'body' => 'Hello from Twilio!'
+        'body' => 'Hello from Gayatri CS643 Fall 2018!'
   )
 );
 
